@@ -12,7 +12,7 @@ public class SeleniumDatabaseTesting
     {
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!4" );
-        System.out.println( "Fix caps1" );
+        System.out.println( "Fix caps2" );
         
         //Testdata
         String email = "abc@gmail.com";
